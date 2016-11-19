@@ -7,3 +7,6 @@
 [submodule "WaveNetFast"]
 	path = WaveNetFast
 	url = https://github.com/tomlepaine/fast-wavenet.git
+[submodule "WaveNetText"]
+	path = WaveNetText
+	url = https://github.com/Zeta36/tensorflow-tex-wavenet.git
