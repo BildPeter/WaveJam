@@ -4,3 +4,6 @@
 [submodule "TensorFlow"]
 	path = TensorFlow
 	url = https://github.com/tensorflow/tensorflow.git
+[submodule "WaveNetFast"]
+	path = WaveNetFast
+	url = https://github.com/tomlepaine/fast-wavenet.git
